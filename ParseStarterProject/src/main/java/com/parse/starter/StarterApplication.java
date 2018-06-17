@@ -25,12 +25,11 @@ public class StarterApplication extends Application {
   public void onCreate() {
     super.onCreate();
 
-    //password: 4BfE02GqJ1e1 name: user
-
     // Enable Local Datastore.
     Parse.enableLocalDatastore(this);
 
     // Add your initialization code here
+    //If you have AWS account, you can replace these of yours
     Parse.initialize(new Parse.Configuration.Builder(getApplicationContext())
             .applicationId("2e1757f4704c6ee48f3b94aade8f4353788888dc")
             .clientKey("391ea9c6df8417aabaed1b5847de608cb92912db")
