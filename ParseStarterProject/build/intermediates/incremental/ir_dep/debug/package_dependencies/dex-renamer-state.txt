@@ -1,0 +1,7 @@
+#Mon Jun 11 16:02:10 CDT 2018
+base.0=C\:\\Users\\Xuan\\Desktop\\android\\AWS\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\Xuan\\Desktop\\android\\AWS\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\10
